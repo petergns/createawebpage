@@ -1,2 +1,5 @@
-# introhtmlcsswebpage
-Intro to HTML &amp; CSS Web Page
+# Intro to HTML and CSS - Create a Web Page
+
+Udacity - Introduction to HTML and CSS Create a Web Page project
+
+
