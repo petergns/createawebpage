@@ -16,9 +16,9 @@ Follow these instructions to set up the Make a Web Page Project.
 Unzip the file and run index.html in a Web Browser.
 
 ### Running the Project
-When you run the  Make a Web Page Project it will generate a web page called:
+When you run the Create a Web Page Project it will generate a web page called:
 <ul>
-  <li>My Notes</li>
+  <li>Mockup Portfolio Page</li>
 </ul>
 This webpage will contain:
 <ul>
