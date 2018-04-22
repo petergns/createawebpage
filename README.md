@@ -36,6 +36,9 @@ There are two files to edit in an editor.
   <li>main.css</li>
 </ul>
 
+### Movie Website when in Browser:
+![Image of Output](https://github.com/petergns/createawebpage/blob/master/page-preview.PNG)
+
 ## Author
 [petergns](https://github.com/petergns)
 
